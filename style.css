@@ -4,7 +4,7 @@
 }
 header { 
     background-color: rgb(255, 255, 255);
-    height: 100px;
+    height: 80px;
     position: static;
 }
 body{
@@ -19,7 +19,7 @@ header a {
 }
 header #pos-tr { 
     text-align: center;
-    padding: 30px;
+    padding: 20px;
 }
 header #pos-tr #tr-head { 
     padding-left: 10px;
@@ -37,13 +37,31 @@ img{
 }
 .img1-body{
     background-color: red;
-    height: 100vh;
+    height: 95vh;
 }
 .img2-body{
     background-color: blue;
-    height: 100vh;
+    height: 60vh;
 }
 footer{ 
     background-color: blueviolet;
     height: 50px;
+}
+.txt-centro{ 
+    padding-top: 10px;
+}
+.img3-body{ 
+    background-color: brown;
+    display: flex;
+}
+.txt-centro1{ 
+    height: 20vh;
+    text-align: center;
+    margin-bottom: 2.5rem;
+    height: 100px;
+    padding-top: 2.5rem;
+}
+.img4-body{ 
+    background-color: cadetblue;
+    height: 60vh;
 }
